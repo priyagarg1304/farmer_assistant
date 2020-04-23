@@ -12,4 +12,8 @@ The bot takes real weather updates of the farmer’s location from Internet thro
 2) Run the farmassist_model.py file -> A proj.h5 must be created
 3) Run the farmassist_bot.py that is the main chatbot for farmers.
 
+=> proj.h5 file has been included in the directory itself so you can directly run the farmassist_bot as well.
+
 If error occurs  in finding proj.h5 file kindly copy the location of this file and change it in the farmassist_bot.py file for its smooth usage .
+
+![Chatbot view]()
