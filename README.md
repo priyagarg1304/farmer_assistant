@@ -16,4 +16,4 @@ The bot takes real weather updates of the farmer’s location from Internet thro
 
 If error occurs  in finding proj.h5 file kindly copy the location of this file and change it in the farmassist_bot.py file for its smooth usage .
 
-![Chatbot view]()
+![Chatbot view](https://github.com/priyagarg1304/farmer_assistant/blob/master/Capture2.PNG)
